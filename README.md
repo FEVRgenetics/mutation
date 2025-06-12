@@ -8,7 +8,8 @@ This list is actively maintained and updated annually to reflect newly reported 
 
 The methodology, inclusion criteria, and clinical implications of this mutation spectrum are detailed in the following publication:
 
-**[Your Name]**, et al. (2025). *Comprehensive Analysis of the Mutation Spectrum in Familial Exudative Vitreoretinopathy*. [Journal Name], [Volume(Issue)], pp–pp.  
+Dong Sun et al. (2025). *Mutation spectrum of Familial Exudative Vitreoretinopathy (FEVR) and its related retinopathies: Creation of a database and ACMG classification of 931 reported and 20 novel mutations*[image](https://github.com/user-attachments/assets/42acc222-31f8-41f1-a193-01a5ce007ffd)
+*. [Journal Name], [Volume(Issue)], pp–pp.  
 📖 DOI: [https://doi.org/xx.xxxx/yyyy]
 
 👉 [Read the paper](https://doi.org/xx.xxxx/yyyy)
@@ -23,10 +24,10 @@ You can download the most recent version of the FEVR mutation list here:
 ## ✉️ Contact
 
 Suggestions for additions, updates, or corrections to the list are welcome and can be sent to:  
-📧 [your.email@institute.edu]
+📧 [dongsun_12@163.com]
 
 ## 📚 Cite
 
 If you use this FEVR mutation spectrum resource, please cite:
 
-> **[Your Name]**, et al. (2025). *Comprehensive Analysis of the Mutation Spectrum in Familial Exudative Vitreoretinopathy*. [Journal Name], [Volume(Issue)], pp–pp. DOI: [https://doi.org/xx.xxxx/yyyy]
+> Dong sun et al. (2025). *Mutation spectrum of Familial Exudative Vitreoretinopathy (FEVR) and its related retinopathies: Creation of a database and ACMG classification of 931 reported and 20 novel mutations*. [Journal Name], [Volume(Issue)], pp–pp. DOI: [https://doi.org/xx.xxxx/yyyy]
