@@ -18,7 +18,7 @@ The methodology, inclusion criteria, and clinical implications of this mutation 
 
 You can download the most recent version of the FEVR mutation list here:
 
-📁 [Download Excel File](https://github.com/YourUsername/FEVR-Mutations/raw/main/fevr_mutation_spectrum.xlsx)
+📁 [Download Excel File](https://github.com/FEVRgenetics/mutation/blob/main/supplementary_FEVR_spectrum_all_data_Jan_2025.xlsx)
 
 ## ✉️ Contact
 
