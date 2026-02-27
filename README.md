@@ -14,7 +14,7 @@ Dong Sun et al. (2026). *Mutation spectrum of Familial Exudative Vitreoretinopat
 
 You can download the most recent version of the FEVR mutation list here:
 
-📁 [Download Excel File](https://github.com/FEVRgenetics/mutation/blob/main/FEVR%20mutation%20spectrum.xlsx)
+📁 [Download Excel File](https://github.com/FEVRgenetics/mutation/raw/refs/heads/main/FEVR%20mutation%20spectrum.xlsx)
 
 ## ✉️ Contact
 
