@@ -1,4 +1,4 @@
-# FEVR-Mutations
+<img width="468" height="70" alt="image" src="https://github.com/user-attachments/assets/b91edcbb-05e8-4ea0-9a51-312f5dbc4538" /># FEVR-Mutations
 
 A curated list of gene mutations associated with Familial Exudative Vitreoretinopathy (FEVR).
 
@@ -8,7 +8,7 @@ This list is actively maintained and updated every two years to reflect newly re
 
 The methodology, inclusion criteria, and clinical implications of this mutation spectrum are detailed in the following publication:
 
-Dong Sun et al. (2026). *Mutation spectrum of Familial Exudative Vitreoretinopathy (FEVR) and its related retinopathies: Creation of a database and ACMG classification of 1070 reported and 18 novel mutations*
+Dong Sun et al. (2026). *Mutation spectrum of Familial Exudative Vitreoretinopathy (FEVR) and related retinopathies: ACMG classification of 1103 reported and 18 novel FEVR associated variants*
 
 ## 📥 Download
 
@@ -25,4 +25,4 @@ Suggestions for additions, updates, or corrections to the list are welcome and c
 
 If you use this FEVR mutation spectrum resource, please cite:
 
-> Dong sun et al. (2026). *Mutation spectrum of Familial Exudative Vitreoretinopathy (FEVR) and its related retinopathies: Creation of a database and ACMG classification of 1070 reported and 18 novel mutations*. 
+> Dong sun et al. (2026). *Mutation spectrum of Familial Exudative Vitreoretinopathy (FEVR) and related retinopathies: ACMG classification of 1103 reported and 18 novel FEVR associated variants*. 
