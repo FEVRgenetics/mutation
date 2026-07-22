@@ -1,5 +1,3 @@
-<img width="468" height="70" alt="image" src="https://github.com/user-attachments/assets/b91edcbb-05e8-4ea0-9a51-312f5dbc4538" /># FEVR-Mutations
-
 A curated list of gene mutations associated with Familial Exudative Vitreoretinopathy (FEVR).
 
 This list is actively maintained and updated every two years to reflect newly reported variants and insights from the latest literature.
